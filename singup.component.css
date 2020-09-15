@@ -1,0 +1,118 @@
+ 
+
+
+.body{
+    color: yellow;
+    background-color: black;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+    .content{
+    line-height: 70px; 
+  }
+  .DATA{
+    margin: 0rem 0rem 9px 24rem;
+  }
+
+.inputBox{
+  width: 50%;
+  height: 25px;
+}
+.textBox{
+  height: 30px;
+  width: 50%;
+  float: right;
+ margin:  17px 150px -5px 0px;
+}
+.birthday{
+  height: 13px;
+    width: 21%;
+    font-size: 23px;
+    float: right;
+    padding: 10px;
+    margin: 17px 25rem 16px 0;
+   
+}
+.country{
+  height: 35px;
+    width: 23%;
+    font-size:20px;
+    margin:  17px 25rem 16px 0;
+    float: right;
+}
+.email,.phone,.psw{
+  height: 30px;
+    width: 46%;
+}
+.varify{
+  
+  height: 3.0rem;
+  
+  
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  color: white;
+  background: #9009ba;
+  font-size: 1.6rem;
+  padding: 11px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  width: 17%;
+}
+.checkbox{
+  zoom: 2.0;
+ 
+}
+.header {
+  display: flex;
+  height: 20%;
+  background: #c18e1b;
+  margin-bottom: -8px;
+  margin-left: 7px;
+  margin-right: 8px;  
+}
+h2{
+  margin: 30px 73px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 48px;
+  color: yellow;
+}
+.button{
+  height: 3.0rem;
+  
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  color: white;
+  background: #176d0f;
+  font-size: 1.6rem;
+  padding: 11px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  width: 17%;
+  
+}
+.buttonsection{
+  display: flex;
+  justify-content: space-evenly;
+  height: 20%;
+  background: #c18e1b;
+}
+.buttonContainer{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin: 38px
+}
+#cancel{
+  background-color: red;
+} 
+.gen{
+  margin: 10px -16px 5px 27px;
+  display: -webkit-inline-box;
+} 
